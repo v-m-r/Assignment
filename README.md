@@ -5,7 +5,7 @@ they are:
 1. Timer0
 2. Timer1
 3. Timer2
-4. </b>
+</b>
 
 **timer 0** is 8 bit counter count 0 - 255.
 

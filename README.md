@@ -11,7 +11,7 @@ they are:
 
 **timer 1** is 16 bit counter counts 0 - 65600.
 
-**timer 2** is 8 bit counter same as timer 0.
+**timer 2** is 8 bit counter same as timer 255.
 
 These timer are depend on real time clock. If we handle them rigth we can will no - negligible error in real time.
 For this program I have used **timer0** with preScaler value of 1/64.
